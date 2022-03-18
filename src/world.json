@@ -1,3 +1,20 @@
 {
-    "name":"si machiavelli"
+    "world":[
+        {
+            "countryName":"Afghanistan",
+            "dialCode":"+93",
+            "iso2":"AF",
+            "iso3":"AFG", 
+            "currencyCode":"AFN",
+            "Flag" : "../assets/"
+        },
+        {
+            "countryName":"Albania",
+            "dialCode":"+355",
+            "iso2":"ALB",
+            "iso3":"AFG", 
+            "currencyCode":"ALL",
+            "Flag" : "../assets/"
+        }
+    ]
 }
