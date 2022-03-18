@@ -15,6 +15,167 @@
             "iso3":"AFG", 
             "currencyCode":"ALL",
             "Flag" : "../assets/"
+        },
+        {
+            "countryName":"Algeria",
+            "dialCode":"+213",
+            "iso2":"DZ",
+            "iso3":"DZA", 
+            "currencyCode":"DZD",
+            "Flag" : "../assets/"
+        },
+        {
+            "countryName":"Andorra",
+            "dialCode":"+376",
+            "iso2":"AD",
+            "iso3":"AND", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        },
+        {
+            "countryName":"Angola",
+            "dialCode":"+244",
+            "iso2":"AO",
+            "iso3":"AGO", 
+            "currencyCode":"AOA",
+            "Flag" : "../assets/"
         }
+
+        ,
+        {
+            "countryName":"Antigua and Barbuda",
+            "dialCode":"+1",
+            "iso2":"AG",
+            "iso3":"ATG", 
+            "currencyCode":"XCD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Argentina",
+            "dialCode":"+54",
+            "iso2":"AR",
+            "iso3":"ARG", 
+            "currencyCode":"ARS",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Armenia",
+            "dialCode":"+374",
+            "iso2":"AM",
+            "iso3":"ARM", 
+            "currencyCode":"AMD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Australia",
+            "dialCode":"+61",
+            "iso2":"AU",
+            "iso3":"AUS", 
+            "currencyCode":"AUD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Austria",
+            "dialCode":"+43",
+            "iso2":"AT",
+            "iso3":"AUT", 
+            "currencyCode":"AUD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Azerbaijan",
+            "dialCode":"+994",
+            "iso2":"AZ",
+            "iso3":"AZE", 
+            "currencyCode":"AZN",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Bahamas",
+            "dialCode":"+1",
+            "iso2":"BS",
+            "iso3":"BHS", 
+            "currencyCode":"BSD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Bahrain",
+            "dialCode":"+973",
+            "iso2":"BS",
+            "iso3":"BHS", 
+            "currencyCode":"BHD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Bangladesh",
+            "dialCode":"+880",
+            "iso2":"BD",
+            "iso3":"BGD", 
+            "currencyCode":"BDT",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Barbados",
+            "dialCode":"+1246",
+            "iso2":"BB",
+            "iso3":"BRB", 
+            "currencyCode":"BBD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Belarus",
+            "dialCode":"+375",
+            "iso2":"BY",
+            "iso3":"BLR", 
+            "currencyCode":"BYN",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Belgium",
+            "dialCode":"+32",
+            "iso2":"BE",
+            "iso3":"BEL", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Belize",
+            "dialCode":"+501",
+            "iso2":"BZ",
+            "iso3":"BLZ", 
+            "currencyCode":"BZD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Benin",
+            "dialCode":"+229",
+            "iso2":"BJ",
+            "iso3":"BEN", 
+            "currencyCode":"XOF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Bhutan",
+            "dialCode":"+975",
+            "iso2":"BT",
+            "iso3":"BTN", 
+            "currencyCode":"BTN",
+            "Flag" : "../assets/"
+        }
+       
     ]
 }
