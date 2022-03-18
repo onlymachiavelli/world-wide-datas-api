@@ -5,7 +5,9 @@ const app: Application = express()
 app.use(cors())
 const PORT: Number = 3000
 app.get("/", (req: Request, res: Response): void => {
-  res.send("HELLO WORLD")
+  res.send({
+    flag: "shit",
+  })
 })
 
 app.listen(PORT, (): void => {
