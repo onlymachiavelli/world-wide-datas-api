@@ -887,5 +887,71 @@
             "currencyCode":"CHF",
             "Flag" : "../assets/"
         }
+        ,
+        {
+            "countryName":"Lithuania",
+            "dialCode":"+370",
+            "iso2":"LT",
+            "iso3":"LTU", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Luxembourg",
+            "dialCode":"+352",
+            "iso2":"LU",
+            "iso3":"LUX", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+
+
+
+        ,
+        {
+            "countryName":"Macau",
+            "dialCode":"+853",
+            "iso2":"MO",
+            "iso3":"MAC", 
+            "currencyCode":"MOP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Macedonia",
+            "dialCode":"+389",
+            "iso2":"MK",
+            "iso3":"MKD", 
+            "currencyCode":"MKD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Madagascar",
+            "dialCode":"+261",
+            "iso2":"MG",
+            "iso3":"MDG", 
+            "currencyCode":"MGA",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Malawi",
+            "dialCode":"+265",
+            "iso2":"MW",
+            "iso3":"MWI", 
+            "currencyCode":"MWK",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Malaysia",
+            "dialCode":"+60",
+            "iso2":"MY",
+            "iso3":"MYS", 
+            "currencyCode":"MYR",
+            "Flag" : "../assets/"
+        }
     ]
 }
