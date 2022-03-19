@@ -176,6 +176,221 @@
             "currencyCode":"BTN",
             "Flag" : "../assets/"
         }
-       
+        ,
+        {
+            "countryName":"Bolivia",
+            "dialCode":"+591",
+            "iso2":"BO",
+            "iso3":"BOL", 
+            "currencyCode":"BOV",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Bosnia and Herzegovina",
+            "dialCode":"+387",
+            "iso2":"BA",
+            "iso3":"BIH", 
+            "currencyCode":"BAM",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Botswana",
+            "dialCode":"+267",
+            "iso2":"BW",
+            "iso3":"BWA", 
+            "currencyCode":"BWP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Brazil",
+            "dialCode":"+55",
+            "iso2":"BR",
+            "iso3":"BRA", 
+            "currencyCode":"BRL",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Brunei",
+            "dialCode":"+673",
+            "iso2":"BN",
+            "iso3":"BND", 
+            "currencyCode":"BRL",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Bulgaria",
+            "dialCode":"+359",
+            "iso2":"BG",
+            "iso3":"BGR", 
+            "currencyCode":"BGN",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Burkina Faso",
+            "dialCode":"+226",
+            "iso2":"BF",
+            "iso3":"BFA", 
+            "currencyCode":"XOF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Burundi",
+            "dialCode":"+257",
+            "iso2":"BI",
+            "iso3":"BDI", 
+            "currencyCode":"BIF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":["Côte d'Ivoire","Ivory Coast"],
+            "dialCode":"+225",
+            "iso2":"CI",
+            "iso3":"CIV", 
+            "currencyCode":"XOF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Cabo Verde",
+            "dialCode":"+238",
+            "iso2":"CV",
+            "iso3":"CPV", 
+            "currencyCode":"CVE",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Cambodia",
+            "dialCode":"+855",
+            "iso2":"KH",
+            "iso3":"KHM", 
+            "currencyCode":"KHR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Cameroon",
+            "dialCode":"+237",
+            "iso2":"CM",
+            "iso3":"CMR", 
+            "currencyCode":"XAF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Canada",
+            "dialCode":"+1",
+            "iso2":"CA",
+            "iso3":"CAN", 
+            "currencyCode":"CAD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Central African Republic",
+            "dialCode":"+236",
+            "iso2":"CF",
+            "iso3":"CAF", 
+            "currencyCode":"XAF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Chad",
+            "dialCode":"+235",
+            "iso2":"TD",
+            "iso3":"TCD", 
+            "currencyCode":"XAF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Chile",
+            "dialCode":"+56",
+            "iso2":"CL",
+            "iso3":"CHL", 
+            "currencyCode":"CLF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"China",
+            "dialCode":"+86",
+            "iso2":"CN",
+            "iso3":"CHN", 
+            "currencyCode":"CNY",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Colombia",
+            "dialCode":"+57",
+            "iso2":"CO",
+            "iso3":"COL", 
+            "currencyCode":"COP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Comoros",
+            "dialCode":"+269",
+            "iso2":"KM",
+            "iso3":"COM", 
+            "currencyCode":"KMF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Congo",
+            "dialCode":"+242",
+            "iso2":"CG",
+            "iso3":"COG", 
+            "currencyCode":"XAF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Costa Rica",
+            "dialCode":"+506",
+            "iso2":"CR",
+            "iso3":"CRI", 
+            "currencyCode":"CRC",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Croatia",
+            "dialCode":"+385",
+            "iso2":"HR",
+            "iso3":"HRV", 
+            "currencyCode":"HRK",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Cuba",
+            "dialCode":"+53",
+            "iso2":"CU",
+            "iso3":"CUB", 
+            "currencyCode":"CUC",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Cyprus",
+            "dialCode":"+357",
+            "iso2":"CY",
+            "iso3":"CYP", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
     ]
 }
