@@ -1541,5 +1541,248 @@
             "currencyCode":"ANG",
             "Flag" : "../assets/"
         }
+        ,
+        {
+            "countryName":"Slovakia",
+            "dialCode":"+421",
+            "iso2":"SK",
+            "iso3":"SVK", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Slovenia",
+            "dialCode":"+386",
+            "iso2":"SI",
+            "iso3":"SVN", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Solomon Islands",
+            "dialCode":"+677",
+            "iso2":"SB",
+            "iso3":"SLB", 
+            "currencyCode":"SBD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Somalia",
+            "dialCode":"+252",
+            "iso2":"SO",
+            "iso3":"SOM", 
+            "currencyCode":"SOS",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"South Africa",
+            "dialCode":"+27",
+            "iso2":"ZA",
+            "iso3":"ZAF", 
+            "currencyCode":"ZAR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"South Korea",
+            "dialCode":"+82",
+            "iso2":"KR",
+            "iso3":"KOR", 
+            "currencyCode":"KRW",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"South Sudan",
+            "dialCode":"+211",
+            "iso2":"SS",
+            "iso3":"SSD", 
+            "currencyCode":"SSP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Spain",
+            "dialCode":"+34",
+            "iso2":"ES",
+            "iso3":"ESP", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Sri Lanka",
+            "dialCode":"+94",
+            "iso2":"LK",
+            "iso3":"LKA", 
+            "currencyCode":"LKR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Sudan",
+            "dialCode":"+249",
+            "iso2":"SD",
+            "iso3":"SDN", 
+            "currencyCode":"SDG",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Suriname",
+            "dialCode":"+597",
+            "iso2":"SR",
+            "iso3":"SUR", 
+            "currencyCode":"SRD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Svalbard and Jan Mayen",
+            "dialCode":"+47",
+            "iso2":"SJ",
+            "iso3":"SJM", 
+            "currencyCode":"NOK",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Sweden",
+            "dialCode":"+46",
+            "iso2":"SE",
+            "iso3":"SWE", 
+            "currencyCode":"SEK",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Switzerland",
+            "dialCode":"+41",
+            "iso2":"CH",
+            "iso3":"CHE", 
+            "currencyCode":"CHE",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Syria",
+            "dialCode":"+963",
+            "iso2":"SY",
+            "iso3":"SYR", 
+            "currencyCode":"SYP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Taiwan",
+            "dialCode":"+886",
+            "iso2":"TW",
+            "iso3":"TWN", 
+            "currencyCode":"TWD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Tajikistan",
+            "dialCode":"+992",
+            "iso2":"TJ",
+            "iso3":"TJK", 
+            "currencyCode":"TJS",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Tanzania",
+            "dialCode":"+255",
+            "iso2":"TZ",
+            "iso3":"TZA", 
+            "currencyCode":"TZS",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Thailand",
+            "dialCode":"+66",
+            "iso2":"TH",
+            "iso3":"THA", 
+            "currencyCode":"THB",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Timor-Leste",
+            "dialCode":"+670",
+            "iso2":"TL",
+            "iso3":"TLS", 
+            "currencyCode":"USD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Togo",
+            "dialCode":"+228",
+            "iso2":"TG",
+            "iso3":"TGO", 
+            "currencyCode":"XOF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Tokelau",
+            "dialCode":"+690",
+            "iso2":"TK",
+            "iso3":"TKL", 
+            "currencyCode":"NZD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Tonga",
+            "dialCode":"+676",
+            "iso2":"TO",
+            "iso3":"TON", 
+            "currencyCode":"TOP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Trinidad and Tobago",
+            "dialCode":"+1868",
+            "iso2":"TT",
+            "iso3":"TTO", 
+            "currencyCode":"TTD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Tunisia",
+            "dialCode":"+216",
+            "iso2":"TN",
+            "iso3":"TUN", 
+            "currencyCode":"TND",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Turkey",
+            "dialCode":"+90",
+            "iso2":"TR",
+            "iso3":"TUR", 
+            "currencyCode":"TRY",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Turkmenistan",
+            "dialCode":"+993",
+            "iso2":"TM",
+            "iso3":"TKM", 
+            "currencyCode":"TMT",
+            "Flag" : "../assets/"
+        }
     ]
 }
