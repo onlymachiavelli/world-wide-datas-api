@@ -392,5 +392,500 @@
             "currencyCode":"EUR",
             "Flag" : "../assets/"
         }
+        ,
+        {
+            "countryName":"Czechia (Czech Republic)",
+            "dialCode":"+420",
+            "iso2":"CZ",
+            "iso3":"CZE", 
+            "currencyCode":"CZK",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Democratic Republic of the Congo",
+            "dialCode":"+243",
+            "iso2":"CD",
+            "iso3":"COD", 
+            "currencyCode":"CDF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Denmark",
+            "dialCode":"+45",
+            "iso2":"DK",
+            "iso3":"DNK", 
+            "currencyCode":"DKK",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Djibouti",
+            "dialCode":"+253",
+            "iso2":"DJ",
+            "iso3":"DJI", 
+            "currencyCode":"DJF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Dominica",
+            "dialCode":"+1767",
+            "iso2":"DM",
+            "iso3":"DMA", 
+            "currencyCode":"XCD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Dominican Republic",
+            "dialCode":["1809"," 1829", "1849"],
+            "iso2":"DO",
+            "iso3":"DOM", 
+            "currencyCode":"DOP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Ecuador",
+            "dialCode":"+593",
+            "iso2":"EC",
+            "iso3":"ECU", 
+            "currencyCode":"USD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Egypt",
+            "dialCode":"+20",
+            "iso2":"EG",
+            "iso3":"EGY", 
+            "currencyCode":"EGP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"El Salvador",
+            "dialCode":"+503",
+            "iso2":"SV",
+            "iso3":"SLV", 
+            "currencyCode":"SVC",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Equatorial Guinea",
+            "dialCode":"+240",
+            "iso2":"GQ",
+            "iso3":"GNQ", 
+            "currencyCode":"XAF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Eritrea",
+            "dialCode":"+291",
+            "iso2":"ER",
+            "iso3":"ERI", 
+            "currencyCode":"ERN",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Estonia",
+            "dialCode":"+372",
+            "iso2":"EE",
+            "iso3":"EST", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":["Eswatini","Swaziland"],
+            "dialCode":"+268",
+            "iso2":"SZ",
+            "iso3":"SWZ", 
+            "currencyCode":"SZL",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Ethiopia",
+            "dialCode":"+251",
+            "iso2":"ET",
+            "iso3":"ETH", 
+            "currencyCode":"ETB",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Fiji",
+            "dialCode":"+679",
+            "iso2":"FJ",
+            "iso3":"FJI", 
+            "currencyCode":"FJD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Finland",
+            "dialCode":"+358",
+            "iso2":"FI",
+            "iso3":"FIN", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"France",
+            "dialCode":"+33",
+            "iso2":"FR",
+            "iso3":"FRA", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Gabon",
+            "dialCode":"+241",
+            "iso2":"GA",
+            "iso3":"GAB", 
+            "currencyCode":"XAF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Gambia",
+            "dialCode":"+220",
+            "iso2":"GM",
+            "iso3":"GMB", 
+            "currencyCode":"GMD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Georgia",
+            "dialCode":"+995",
+            "iso2":"GE",
+            "iso3":"GEO", 
+            "currencyCode":"GEL",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Germany",
+            "dialCode":"+49",
+            "iso2":"DE",
+            "iso3":"DEU", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Ghana",
+            "dialCode":"+233",
+            "iso2":"GH",
+            "iso3":"GHA", 
+            "currencyCode":"GHS",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Greece",
+            "dialCode":"+30",
+            "iso2":"GR",
+            "iso3":"GRC", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Grenada",
+            "dialCode":"+1473",
+            "iso2":"GD",
+            "iso3":"GRD", 
+            "currencyCode":"XCD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Guatemala",
+            "dialCode":"+502",
+            "iso2":"GT",
+            "iso3":"GTM", 
+            "currencyCode":"GTQ",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Guinea",
+            "dialCode":"+224",
+            "iso2":"GN",
+            "iso3":"GIN", 
+            "currencyCode":"GNF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Guinea-Bissau",
+            "dialCode":"+245",
+            "iso2":"GW",
+            "iso3":"GNB", 
+            "currencyCode":"XOF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Guyana",
+            "dialCode":"+592",
+            "iso2":"GY",
+            "iso3":"GUY", 
+            "currencyCode":"GYD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Haiti",
+            "dialCode":"+509",
+            "iso2":"HT",
+            "iso3":"HTI", 
+            "currencyCode":"HTG",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Holy See",
+            "dialCode":"+379",
+            "iso2":"VA",
+            "iso3":"VAT", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Honduras",
+            "dialCode":"+504",
+            "iso2":"HN",
+            "iso3":"HND", 
+            "currencyCode":"HNL",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Hong Kong",
+            "dialCode":"+852",
+            "iso2":"HK",
+            "iso3":"HKG", 
+            "currencyCode":"HKD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Hungary",
+            "dialCode":"+36",
+            "iso2":"HU",
+            "iso3":"HUN", 
+            "currencyCode":"HUF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Iceland",
+            "dialCode":"+354",
+            "iso2":"IS",
+            "iso3":"ISL", 
+            "currencyCode":"ISK",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"India",
+            "dialCode":"+91",
+            "iso2":"IN",
+            "iso3":"IND", 
+            "currencyCode":"INR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Indonesia",
+            "dialCode":"+62",
+            "iso2":"ID",
+            "iso3":"IDN", 
+            "currencyCode":"IDR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Iran",
+            "dialCode":"+98",
+            "iso2":"IR",
+            "iso3":"IRN", 
+            "currencyCode":"IRR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Iraq",
+            "dialCode":"+964",
+            "iso2":"IQ",
+            "iso3":"IRQ", 
+            "currencyCode":"IQD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Ireland",
+            "dialCode":"+353",
+            "iso2":"IE",
+            "iso3":"IRL", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Italy",
+            "dialCode":"+39",
+            "iso2":"IT",
+            "iso3":"ITA", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Jamaica",
+            "dialCode":"+1876",
+            "iso2":"JM",
+            "iso3":"JAM", 
+            "currencyCode":"JMD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Japan",
+            "dialCode":"+81",
+            "iso2":"JP",
+            "iso3":"JPN", 
+            "currencyCode":"JPY",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Jordan",
+            "dialCode":"+962",
+            "iso2":"JO",
+            "iso3":"JOR", 
+            "currencyCode":"JOD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Kazakhstan",
+            "dialCode":"+7",
+            "iso2":"KZ",
+            "iso3":"KAZ", 
+            "currencyCode":"KZT",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Kenya",
+            "dialCode":"+254",
+            "iso2":"KE",
+            "iso3":"KEN", 
+            "currencyCode":"KES",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Kiribati",
+            "dialCode":"+686",
+            "iso2":"KI",
+            "iso3":"KIR", 
+            "currencyCode":"AUD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Kuwait",
+            "dialCode":"+965",
+            "iso2":"KW",
+            "iso3":"KIR", 
+            "currencyCode":"KWT",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Kyrgyzstan",
+            "dialCode":"+996",
+            "iso2":"KG",
+            "iso3":"KGZ", 
+            "currencyCode":"KGS",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Laos",
+            "dialCode":"+856",
+            "iso2":"LA",
+            "iso3":"LAO", 
+            "currencyCode":"LAK",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Latvia",
+            "dialCode":"+371",
+            "iso2":"LV",
+            "iso3":"LVA", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Lebanon",
+            "dialCode":"+961",
+            "iso2":"LB",
+            "iso3":"LBN", 
+            "currencyCode":"LBP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Lesotho",
+            "dialCode":"+266",
+            "iso2":"LS",
+            "iso3":"LSO", 
+            "currencyCode":"LSL",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Liberia",
+            "dialCode":"+231",
+            "iso2":"LR",
+            "iso3":"LBR", 
+            "currencyCode":"LRD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Libya",
+            "dialCode":"+218",
+            "iso2":"LY",
+            "iso3":"LBY", 
+            "currencyCode":"LYD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Liechtenstein",
+            "dialCode":"+423",
+            "iso2":"LI",
+            "iso3":"LIE", 
+            "currencyCode":"CHF",
+            "Flag" : "../assets/"
+        }
     ]
 }
