@@ -1350,6 +1350,16 @@
             "currencyCode":"QAR",
             "Flag" : "../assets/"
         }
+
+        {
+            "countryName":"Reunion",
+            "dialCode":"+262",
+            "iso2":"RE",
+            "iso3":"REU", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+
         ,
         {
             "countryName":"Romania",
@@ -1357,6 +1367,178 @@
             "iso2":"RO",
             "iso3":"ROU", 
             "currencyCode":"RON",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Russia",
+            "dialCode":"+7",
+            "iso2":"RU",
+            "iso3":"RUS", 
+            "currencyCode":"RUB",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Rwanda",
+            "dialCode":"+250",
+            "iso2":"RW",
+            "iso3":"RWA", 
+            "currencyCode":"RWF",
+            "Flag" : "../assets/"
+        }
+
+        ,
+        {
+            "countryName":"Saint Barthelemy",
+            "dialCode":"+590",
+            "iso2":"BL",
+            "iso3":"BLM", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Saint Helena",
+            "dialCode":"+290",
+            "iso2":"SH",
+            "iso3":"SHN", 
+            "currencyCode":"SHP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Saint Kitts and Nevis",
+            "dialCode":"+1869",
+            "iso2":"KN",
+            "iso3":"KNA", 
+            "currencyCode":"XCD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Saint Lucia",
+            "dialCode":"+1758",
+            "iso2":"LC",
+            "iso3":"LCA", 
+            "currencyCode":"XCD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Saint Martin",
+            "dialCode":"+590",
+            "iso2":"MF",
+            "iso3":"MAF", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Saint Pierre and Miquelon",
+            "dialCode":"+508",
+            "iso2":"PM",
+            "iso3":"SPM", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Saint Vincent and the Grenadines",
+            "dialCode":"+1784",
+            "iso2":"VC",
+            "iso3":"VCT", 
+            "currencyCode":"XCD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Samoa",
+            "dialCode":"+685",
+            "iso2":"WS",
+            "iso3":"WSM", 
+            "currencyCode":"WST",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"San Marino",
+            "dialCode":"+378",
+            "iso2":"SM",
+            "iso3":"SMR", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Sao Tome and Principe",
+            "dialCode":"+239",
+            "iso2":"ST",
+            "iso3":"STP", 
+            "currencyCode":"STN",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Saudi Arabia",
+            "dialCode":"+966",
+            "iso2":"SA",
+            "iso3":"SAU", 
+            "currencyCode":"SAR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Senegal",
+            "dialCode":"+221",
+            "iso2":"SN",
+            "iso3":"SEN", 
+            "currencyCode":"XOF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Serbia",
+            "dialCode":"+381",
+            "iso2":"RS",
+            "iso3":"SRB", 
+            "currencyCode":"RSD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Seychelles",
+            "dialCode":"+248",
+            "iso2":"SC",
+            "iso3":"SYC", 
+            "currencyCode":"SCR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Sierra Leone",
+            "dialCode":"+232",
+            "iso2":"SL",
+            "iso3":"SLE", 
+            "currencyCode":"SLL",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Singapore",
+            "dialCode":"+65",
+            "iso2":"SG",
+            "iso3":"SGP", 
+            "currencyCode":"SGD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Sint Maarten",
+            "dialCode":"+1721",
+            "iso2":"SX",
+            "iso3":"SXM", 
+            "currencyCode":"ANG",
             "Flag" : "../assets/"
         }
     ]
