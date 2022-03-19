@@ -953,5 +953,411 @@
             "currencyCode":"MYR",
             "Flag" : "../assets/"
         }
+        ,
+        {
+            "countryName":"Maldives",
+            "dialCode":"+960",
+            "iso2":"MV",
+            "iso3":"MDV", 
+            "currencyCode":"MVR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Mali",
+            "dialCode":"+223",
+            "iso2":"ML",
+            "iso3":"MLI", 
+            "currencyCode":"XOF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Malta",
+            "dialCode":"+356",
+            "iso2":"MT",
+            "iso3":"MLT", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Marshall Islands",
+            "dialCode":"+692",
+            "iso2":"MH",
+            "iso3":"MHL", 
+            "currencyCode":"USD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Mauritania",
+            "dialCode":"+222",
+            "iso2":"MR",
+            "iso3":"MRT", 
+            "currencyCode":"MRU",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Mauritius",
+            "dialCode":"+230",
+            "iso2":"MU",
+            "iso3":"MUS", 
+            "currencyCode":"MUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"MAYOTTE",
+            "dialCode":"+262",
+            "iso2":"YT",
+            "iso3":"MYT", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Mexico",
+            "dialCode":"+52",
+            "iso2":"MX",
+            "iso3":"MEX", 
+            "currencyCode":"MXN",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Micronesia",
+            "dialCode":"+691",
+            "iso2":"FM",
+            "iso3":"FSM", 
+            "currencyCode":"USD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Moldova",
+            "dialCode":"+373",
+            "iso2":"MD",
+            "iso3":"MDA", 
+            "currencyCode":"MDL",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Monaco",
+            "dialCode":"+377",
+            "iso2":"MC",
+            "iso3":"MCO", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Mongolia",
+            "dialCode":"+976",
+            "iso2":"MN",
+            "iso3":"MNG", 
+            "currencyCode":"MNT",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Montenegro",
+            "dialCode":"+382",
+            "iso2":"ME",
+            "iso3":"MNE", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+
+        ,
+        {
+            "countryName":"Montserrat",
+            "dialCode":"+1664",
+            "iso2":"MS",
+            "iso3":"MSR", 
+            "currencyCode":"XCD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Morocco",
+            "dialCode":"+212",
+            "iso2":"MA",
+            "iso3":"MAR", 
+            "currencyCode":"MAD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Mozambique",
+            "dialCode":"+258",
+            "iso2":"MZ",
+            "iso3":"MOZ", 
+            "currencyCode":"MZN",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Myanmar",
+            "dialCode":"+95",
+            "iso2":"MM",
+            "iso3":"MMR", 
+            "currencyCode":"MMK",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Namibia",
+            "dialCode":"+264",
+            "iso2":"NA",
+            "iso3":"NAM", 
+            "currencyCode":"NAD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Nauru",
+            "dialCode":"+674",
+            "iso2":"NR",
+            "iso3":"NRU", 
+            "currencyCode":"AUD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Nepal",
+            "dialCode":"+977",
+            "iso2":"NP",
+            "iso3":"NPL", 
+            "currencyCode":"NPR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Netherlands",
+            "dialCode":"+31",
+            "iso2":"NL",
+            "iso3":"NLD", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"New Caledonia",
+            "dialCode":"+687",
+            "iso2":"NC",
+            "iso3":"NCL", 
+            "currencyCode":"XPF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"New Zealand",
+            "dialCode":"+64",
+            "iso2":"NZ",
+            "iso3":"NZL", 
+            "currencyCode":"NZD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Nicaragua",
+            "dialCode":"+505",
+            "iso2":"NI",
+            "iso3":"NIC", 
+            "currencyCode":"NIO",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Niger",
+            "dialCode":"+227",
+            "iso2":"NE",
+            "iso3":"NER", 
+            "currencyCode":"XOF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Nigeria",
+            "dialCode":"+234",
+            "iso2":"NG",
+            "iso3":"NGA", 
+            "currencyCode":"NGN",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Niue",
+            "dialCode":"+683",
+            "iso2":"NU",
+            "iso3":"NIU", 
+            "currencyCode":"NZD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"North Korea",
+            "dialCode":"+850",
+            "iso2":"KP",
+            "iso3":"PRK", 
+            "currencyCode":"KPW",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Northern Mariana Islands",
+            "dialCode":"+1670",
+            "iso2":"MP",
+            "iso3":"MNP", 
+            "currencyCode":"USD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Norway",
+            "dialCode":"+47",
+            "iso2":"NO",
+            "iso3":"NOR", 
+            "currencyCode":"NOK",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Oman",
+            "dialCode":"+968",
+            "iso2":"OM",
+            "iso3":"OMN", 
+            "currencyCode":"OMR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Pakistan",
+            "dialCode":"+92",
+            "iso2":"PK",
+            "iso3":"PAK", 
+            "currencyCode":"PKR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Palau",
+            "dialCode":"+680",
+            "iso2":"PW",
+            "iso3":"PLW", 
+            "currencyCode":"USD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Palestine",
+            "dialCode":"+970",
+            "iso2":"PS",
+            "iso3":"PSE", 
+            "currencyCode":"ILS",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Panama",
+            "dialCode":"+507",
+            "iso2":"PA",
+            "iso3":"PAN", 
+            "currencyCode":"PAB",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Papua New Guinea",
+            "dialCode":"+675",
+            "iso2":"PG",
+            "iso3":"PNG", 
+            "currencyCode":"PGK",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Paraguay",
+            "dialCode":"+595",
+            "iso2":"PY",
+            "iso3":"PRY", 
+            "currencyCode":"PYG",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Peru",
+            "dialCode":"+51",
+            "iso2":"PE",
+            "iso3":"PER", 
+            "currencyCode":"PEN",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Philippines",
+            "dialCode":"+63",
+            "iso2":"PH",
+            "iso3":"PHL", 
+            "currencyCode":"PHP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Pitcairn",
+            "dialCode":"+64",
+            "iso2":"PN",
+            "iso3":"PCN", 
+            "currencyCode":"NZD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Poland",
+            "dialCode":"+48",
+            "iso2":"PL",
+            "iso3":"POL", 
+            "currencyCode":"PLN",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Portugal",
+            "dialCode":"+351",
+            "iso2":"PT",
+            "iso3":"PRT", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Puerto Rico",
+            "dialCode":["+1787","+1939"],
+            "iso2":"PR",
+            "iso3":"PRI", 
+            "currencyCode":"USD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Qatar",
+            "dialCode":"+974",
+            "iso2":"QA",
+            "iso3":"QAT", 
+            "currencyCode":"QAR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Romania",
+            "dialCode":"+40",
+            "iso2":"RO",
+            "iso3":"ROU", 
+            "currencyCode":"RON",
+            "Flag" : "../assets/"
+        }
     ]
 }
