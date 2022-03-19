@@ -1349,8 +1349,7 @@
             "iso3":"QAT", 
             "currencyCode":"QAR",
             "Flag" : "../assets/"
-        }
-
+        },
         {
             "countryName":"Reunion",
             "dialCode":"+262",
@@ -1782,6 +1781,177 @@
             "iso2":"TM",
             "iso3":"TKM", 
             "currencyCode":"TMT",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Turks and Caicos Islands",
+            "dialCode":"+1649",
+            "iso2":"TC",
+            "iso3":"TCA", 
+            "currencyCode":"USD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Tuvalu",
+            "dialCode":"+688",
+            "iso2":"TV",
+            "iso3":"TUV", 
+            "currencyCode":"AUD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"U.S. Virgin Islands",
+            "dialCode":"+1340",
+            "iso2":"VI",
+            "iso3":"VIR", 
+            "currencyCode":"USD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Uganda",
+            "dialCode":"+256",
+            "iso2":"UG",
+            "iso3":"UGA", 
+            "currencyCode":"UGX",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Ukraine",
+            "dialCode":"+380",
+            "iso2":"UA",
+            "iso3":"UKR", 
+            "currencyCode":"UAH",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"United Arab Emirates",
+            "dialCode":"+971",
+            "iso2":"AE",
+            "iso3":"ARE", 
+            "currencyCode":"AED",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"United Kingdom",
+            "dialCode":"+44",
+            "iso2":"GB",
+            "iso3":"GBR", 
+            "currencyCode":"GBP",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"United States of America",
+            "dialCode":"+1",
+            "iso2":"US",
+            "iso3":"USA", 
+            "currencyCode":"USD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Uruguay",
+            "dialCode":"+598",
+            "iso2":"UY",
+            "iso3":"URY", 
+            "currencyCode":"UYI",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Uzbekistan",
+            "dialCode":"+998",
+            "iso2":"UZ",
+            "iso3":"UZB", 
+            "currencyCode":"UZS",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Vanuatu",
+            "dialCode":"+678",
+            "iso2":"VU",
+            "iso3":"VUT", 
+            "currencyCode":"VUV",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Vatican",
+            "dialCode":"+379",
+            "iso2":"VA",
+            "iso3":"VAT", 
+            "currencyCode":"EUR",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Venezuela",
+            "dialCode":"+58",
+            "iso2":"VE",
+            "iso3":"VEN", 
+            "currencyCode":"VEF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Vietnam",
+            "dialCode":"+84",
+            "iso2":"VN",
+            "iso3":"VNM", 
+            "currencyCode":"VND",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Wallis and Futuna",
+            "dialCode":"+681",
+            "iso2":"WF",
+            "iso3":"WLF", 
+            "currencyCode":"XPF",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Western Sahara",
+            "dialCode":"+212",
+            "iso2":"EH",
+            "iso3":"ESH", 
+            "currencyCode":"MAD",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Yemen",
+            "dialCode":"+967",
+            "iso2":"YE",
+            "iso3":"YEM", 
+            "currencyCode":"YER",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Zambia",
+            "dialCode":"+260",
+            "iso2":"ZM",
+            "iso3":"ZMB", 
+            "currencyCode":"ZMW",
+            "Flag" : "../assets/"
+        }
+        ,
+        {
+            "countryName":"Zimbabwe",
+            "dialCode":"+263",
+            "iso2":"ZW",
+            "iso3":"ZWE", 
+            "currencyCode":"ZWL",
             "Flag" : "../assets/"
         }
     ]
