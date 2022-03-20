@@ -64,6 +64,16 @@ app.get("/iso3/:Name", (req: Request, res: Response) => {
   const reSult = findData("iso3", req.params.Name)
   res.status(reSult.status).send(reSult)
 })
+
+app.get("/continent/:continent", (req, res) => {
+  res
+    .status(arrData("continent", req.params.continent).length > 0 ? 302 : 404)
+    .send(
+      arrData("continent", req.params.continent).length > 0
+        ? arrData("continent", req.params.continent)
+        : `There's no continent named ${req.params.continent}`
+    )
+})
 app.get("/noContinent", (_, res) => {})
 
 app.listen(PORT, (): void => {
