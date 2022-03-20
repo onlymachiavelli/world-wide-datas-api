@@ -1,11 +1,13 @@
 import express, { Application, Request, Response } from "express"
+import axios from "axios"
+
 const cors = require("cors")
 const app: Application = express()
 const datas = require("./world.json")
 app.use(cors())
 app.use(express.json())
 
-const PORT: Number = 3000
+const PORT: Number = 6900
 
 const findData = (index: any, data: string) => {
   for (let i = 0; i < datas.WORLD.length; i++) {
@@ -28,7 +30,22 @@ const findData = (index: any, data: string) => {
   }
 }
 
-console.log(findData("countryName", "Tunisia"))
+const dd = async () => {
+  const response = await axios
+    .get("https://disease.sh/v3/covid-19/countries/")
+    .then((res: any) => {
+      res.data
+    })
+  return response
+}
+
+dd().then((res) => console.log(res))
+const shits = datas
+app.get("/shit", (__, res) => {
+  dd().then((ress) => {
+    res.send(ress)
+  })
+})
 
 app.get("/", (req: Request, res: Response): void => {
   res.send(datas)
