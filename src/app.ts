@@ -49,7 +49,7 @@ const arrData = (index: string, data: string): any => {
 app.get("/", (req: Request, res: Response): void => {
   res.send(datas)
 })
-app.get("/countryName/:Name", (req: Request, res: Response) => {
+app.get("/country/:Name", (req: Request, res: Response) => {
   const reSult = findData("countryName", req.params.Name)
   res.status(reSult.status).send(reSult)
 })
