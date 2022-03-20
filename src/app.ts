@@ -30,23 +30,9 @@ const findData = (index: any, data: string) => {
   }
 }
 
-const dd = async () => {
-  const response = await axios
-    .get("https://disease.sh/v3/covid-19/countries/")
-    .then((res: any) => {
-      res.data
-    })
-  return response
+const arrData = () => {
+  return []
 }
-
-dd().then((res) => console.log(res))
-const shits = datas
-app.get("/shit", (__, res) => {
-  dd().then((ress) => {
-    res.send(ress)
-  })
-})
-
 app.get("/", (req: Request, res: Response): void => {
   res.send(datas)
 })
