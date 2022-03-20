@@ -54,13 +54,13 @@ app.get("/countryName/:Name", (req: Request, res: Response) => {
   res.status(reSult.status).send(reSult)
 })
 
-app.get("/iso2/:Name", (req: Request, res: Response): void => {
-  const reSult = findData("iso2", req.params.Name)
+app.get("/iso2/:iso2", (req: Request, res: Response): void => {
+  const reSult = findData("iso2", req.params.iso2)
   res.status(reSult.status).send(reSult)
 })
 
-app.get("/iso3/:Name", (req: Request, res: Response): void => {
-  const reSult = findData("iso3", req.params.Name)
+app.get("/iso3/:iso3", (req: Request, res: Response): void => {
+  const reSult = findData("iso3", req.params.iso3)
   res.status(reSult.status).send(reSult)
 })
 
