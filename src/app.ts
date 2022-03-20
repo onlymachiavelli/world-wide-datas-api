@@ -9,8 +9,8 @@ app.use(express.json())
 
 const PORT: Number = 6900
 
-const findData = (index: any, data: string) => {
-  for (let i = 0; i < datas.WORLD.length; i++) {
+const findData = (index: any, data: string): any => {
+  for (let i: number = 0; i < datas.WORLD.length; i++) {
     if (
       typeof datas.WORLD[i][index] === "object"
         ? datas.WORLD[i][index][0].toLowerCase() === data.toLowerCase() ||
@@ -30,12 +30,12 @@ const findData = (index: any, data: string) => {
   }
 }
 
-const arrData = (index: string, data: string) => {
+const arrData = (index: string, data: string): any => {
   let response: any = {
     datas: [],
     length: 0,
   }
-  for (let i: any = 0; i < datas.WORLD.length; i++) {
+  for (let i: number = 0; i < datas.WORLD.length; i++) {
     if (datas.WORLD[i][index]) {
       if (datas.WORLD[i][index].toUpperCase() === data.toUpperCase()) {
         response.datas.push(datas.WORLD[i])
@@ -54,17 +54,17 @@ app.get("/countryName/:Name", (req: Request, res: Response) => {
   res.status(reSult.status).send(reSult)
 })
 
-app.get("/iso2/:Name", (req: Request, res: Response) => {
+app.get("/iso2/:Name", (req: Request, res: Response): void => {
   const reSult = findData("iso2", req.params.Name)
   res.status(reSult.status).send(reSult)
 })
 
-app.get("/iso3/:Name", (req: Request, res: Response) => {
+app.get("/iso3/:Name", (req: Request, res: Response): void => {
   const reSult = findData("iso3", req.params.Name)
   res.status(reSult.status).send(reSult)
 })
 
-app.get("/continent/:continent", (req, res) => {
+app.get("/continent/:continent", (req: Request, res: Response): void => {
   res
     .status(arrData("continent", req.params.continent).length > 0 ? 302 : 404)
     .send(
@@ -73,7 +73,7 @@ app.get("/continent/:continent", (req, res) => {
         : `There's no continent named ${req.params.continent}`
     )
 })
-app.get("/currency/:currency", (req, res) => {
+app.get("/currency/:currency", (req: Request, res: Response): void => {
   res
     .status(arrData("continent", req.params.currency).length > 0 ? 302 : 404)
     .send(
