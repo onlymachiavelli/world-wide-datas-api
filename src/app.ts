@@ -8,7 +8,7 @@ import datas from "./allDatas"
 app.use(cors())
 app.use(express.json())
 
-const PORT: Number = 3000
+const PORT: any = process.env.PORT
 
 const findData = (index: any, data: string): any => {
   for (let i: number = 0; i < datas.WORLD.length; i++) {
