@@ -46,7 +46,6 @@ const arrData = (index: string, data: string) => {
   return response
 }
 
-console.log(arrData("continent", "Europe"))
 app.get("/", (req: Request, res: Response): void => {
   res.send(datas)
 })
@@ -74,7 +73,17 @@ app.get("/continent/:continent", (req, res) => {
         : `There's no continent named ${req.params.continent}`
     )
 })
-app.get("/noContinent", (_, res) => {})
+/*
+app.get("/noContinent", (_, res) => {
+  let theDatas = []
+  for (let i = 0; i < datas.length; i++) {
+    if (!datas.WORLD[i].continent) {
+      theDatas.push(datas.WORLD[i])
+    }
+  }
+  res.send(theDatas)
+})
+*/
 
 app.listen(PORT, (): void => {
   console.log(`Listening on ${PORT}`)
