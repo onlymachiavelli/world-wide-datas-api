@@ -73,6 +73,15 @@ app.get("/continent/:continent", (req, res) => {
         : `There's no continent named ${req.params.continent}`
     )
 })
+app.get("/currency/:currency", (req, res) => {
+  res
+    .status(arrData("continent", req.params.currency).length > 0 ? 302 : 404)
+    .send(
+      arrData("currencyCode", req.params.currency).length > 0
+        ? arrData("currencyCode", req.params.currency)
+        : `There's no Currency named ${req.params.currency}`
+    )
+})
 /*
 app.get("/noContinent", (_, res) => {
   let theDatas = []
