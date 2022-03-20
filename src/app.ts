@@ -3,7 +3,8 @@ import axios from "axios"
 
 const cors = require("cors")
 const app: Application = express()
-const datas: any = require("worldDatas.json")
+//const datas: any = require("./worldDatas.json")
+import datas from "./allDatas"
 app.use(cors())
 app.use(express.json())
 
