@@ -1,6 +1,6 @@
 import express, { Application, Request, Response } from "express"
 import axios from "axios"
-
+import "dotenv/config"
 const cors = require("cors")
 const app: Application = express()
 //const datas: any = require("./worldDatas.json")
@@ -52,36 +52,32 @@ app.get("/", (req: Request, res: Response): void => {
 })
 app.get("/country/:Name", (req: Request, res: Response) => {
   const reSult = findData("countryName", req.params.Name)
-  res.status(reSult.status).send(reSult)
+  res.send(reSult)
 })
 
 app.get("/iso2/:iso2", (req: Request, res: Response): void => {
   const reSult = findData("iso2", req.params.iso2)
-  res.status(reSult.status).send(reSult)
+  res.send(reSult)
 })
 
 app.get("/iso3/:iso3", (req: Request, res: Response): void => {
   const reSult = findData("iso3", req.params.iso3)
-  res.status(reSult.status).send(reSult)
+  res.send(reSult)
 })
 
 app.get("/continent/:continent", (req: Request, res: Response): void => {
-  res
-    .status(arrData("continent", req.params.continent).length > 0 ? 302 : 404)
-    .send(
-      arrData("continent", req.params.continent).length > 0
-        ? arrData("continent", req.params.continent)
-        : `There's no continent named ${req.params.continent}`
-    )
+  res.send(
+    arrData("continent", req.params.continent).length > 0
+      ? arrData("continent", req.params.continent)
+      : `There's no continent named ${req.params.continent}`
+  )
 })
 app.get("/currency/:currency", (req: Request, res: Response): void => {
-  res
-    .status(arrData("continent", req.params.currency).length > 0 ? 302 : 404)
-    .send(
-      arrData("currencyCode", req.params.currency).length > 0
-        ? arrData("currencyCode", req.params.currency)
-        : `There's no Currency named ${req.params.currency}`
-    )
+  res.send(
+    arrData("currencyCode", req.params.currency).length > 0
+      ? arrData("currencyCode", req.params.currency)
+      : `There's no Currency named ${req.params.currency}`
+  )
 })
 /*
 app.get("/noContinent", (_, res) => {
