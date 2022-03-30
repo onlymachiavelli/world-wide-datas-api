@@ -12,6 +12,25 @@
   <p>Use AXIOS for better experience ! </p>
    https://axios-http.com/docs/intro
   <br/>
+  
+  <br/>
+  
+   ```
+   npm i --save axios
+   ```
+   
+   <br/>
+   
+   ```tsx
+   const axios = require('axios')
+   ```
+   <br/>
+   
+  ```tsx
+   import axios from 'axios'
+   ```
+   
+  <hr/>
   <h2>Get world wide datas </h2>
 
 
