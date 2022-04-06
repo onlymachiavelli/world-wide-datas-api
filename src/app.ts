@@ -21,7 +21,7 @@ const findData = (index: any, data: string): any => {
       return {
         data: datas.WORLD[i],
         indexN: i,
-        status: 302,
+        status: 200,
       }
   }
   return {
@@ -48,6 +48,7 @@ const arrData = (index: string, data: string): any => {
 }
 
 app.get("/", (req: Request, res: Response): void => {
+  res.status(200)
   res.send(datas)
 })
 app.get("/country/:Name", (req: Request, res: Response) => {
@@ -57,15 +58,18 @@ app.get("/country/:Name", (req: Request, res: Response) => {
 
 app.get("/iso2/:iso2", (req: Request, res: Response): void => {
   const reSult = findData("iso2", req.params.iso2)
+  res.status(reSult.status)
   res.send(reSult)
 })
 
 app.get("/iso3/:iso3", (req: Request, res: Response): void => {
   const reSult = findData("iso3", req.params.iso3)
+  res.status(reSult.status)
   res.send(reSult)
 })
 
 app.get("/continent/:continent", (req: Request, res: Response): void => {
+  res.status(arrData("continent", req.params.continent).length > 0 ? 200 : 404)
   res.send(
     arrData("continent", req.params.continent).length > 0
       ? arrData("continent", req.params.continent)
@@ -73,6 +77,9 @@ app.get("/continent/:continent", (req: Request, res: Response): void => {
   )
 })
 app.get("/currency/:currency", (req: Request, res: Response): void => {
+  res.status(
+    arrData("currencyCode", req.params.currency).length > 0 ? 200 : 404
+  )
   res.send(
     arrData("currencyCode", req.params.currency).length > 0
       ? arrData("currencyCode", req.params.currency)
