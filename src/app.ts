@@ -53,6 +53,7 @@ app.get("/", (req: Request, res: Response): void => {
 })
 app.get("/country/:Name", (req: Request, res: Response) => {
   const reSult = findData("countryName", req.params.Name)
+  res.status(reSult.status)
   res.send(reSult)
 })
 
